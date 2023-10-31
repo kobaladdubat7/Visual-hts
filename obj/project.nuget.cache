@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "z0G60GX81JrgElXwpKSNHjWYvn0y+QDBCJ1xkqIXi7Rp2UlMsqopSndq3HwDIqgYpPD9SmMsiNHrKPw+6qYkHA==",
+  "success": true,
+  "projectFilePath": "/home/paul/hackthebox/Visual/visual-htb/visual-htb.csproj",
+  "expectedPackageFiles": [
+    "/home/paul/.nuget/packages/microsoft.netcore.app.ref/6.0.8/microsoft.netcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/paul/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/paul/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.8/microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

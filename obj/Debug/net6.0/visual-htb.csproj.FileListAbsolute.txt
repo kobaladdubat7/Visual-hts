@@ -1,0 +1,15 @@
+/home/paul/hackthebox/Visual/visual-htb/bin/Debug/net6.0/visual-htb
+/home/paul/hackthebox/Visual/visual-htb/bin/Debug/net6.0/visual-htb.deps.json
+/home/paul/hackthebox/Visual/visual-htb/bin/Debug/net6.0/visual-htb.runtimeconfig.json
+/home/paul/hackthebox/Visual/visual-htb/bin/Debug/net6.0/visual-htb.dll
+/home/paul/hackthebox/Visual/visual-htb/bin/Debug/net6.0/visual-htb.pdb
+/home/paul/hackthebox/Visual/visual-htb/obj/Debug/net6.0/visual-htb.csproj.AssemblyReference.cache
+/home/paul/hackthebox/Visual/visual-htb/obj/Debug/net6.0/visual-htb.GeneratedMSBuildEditorConfig.editorconfig
+/home/paul/hackthebox/Visual/visual-htb/obj/Debug/net6.0/visual-htb.AssemblyInfoInputs.cache
+/home/paul/hackthebox/Visual/visual-htb/obj/Debug/net6.0/visual-htb.AssemblyInfo.cs
+/home/paul/hackthebox/Visual/visual-htb/obj/Debug/net6.0/visual-htb.csproj.CoreCompileInputs.cache
+/home/paul/hackthebox/Visual/visual-htb/obj/Debug/net6.0/visual-htb.dll
+/home/paul/hackthebox/Visual/visual-htb/obj/Debug/net6.0/refint/visual-htb.dll
+/home/paul/hackthebox/Visual/visual-htb/obj/Debug/net6.0/visual-htb.pdb
+/home/paul/hackthebox/Visual/visual-htb/obj/Debug/net6.0/visual-htb.genruntimeconfig.cache
+/home/paul/hackthebox/Visual/visual-htb/obj/Debug/net6.0/ref/visual-htb.dll
